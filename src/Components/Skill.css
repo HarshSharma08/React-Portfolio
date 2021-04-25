@@ -1,0 +1,76 @@
+  
+.skill{
+
+    border-bottom: 1px solid #f0f0f0;
+	padding: 70px 0 60px 0;
+	background-color:#E6E7E9;
+
+}
+
+
+
+.topLinee{
+
+    color: #101820;
+    font-size: 30px;
+    line-height: 24px;
+    letter-spacing: 1.1px;    
+    font-weight: 100;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.Image{
+    background: #FFBA3D;
+	border-radius: 50%;
+	color: #FFF;
+	font-size: 28px;
+	width: 100px;
+    letter-spacing: 1.1px;    
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-top: 80px;
+    margin-bottom: 10px;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+}
+
+.Image:hover{
+    background: #303030;
+	-webkit-transform: rotate(360deg);
+	-ms-transform: rotate(360deg);
+	transform: rotate(360deg);
+}
+
+.text{
+    margin-left: 18px;
+    letter-spacing: 1.1px;    
+    font-size: 20px;
+}
+
+
+.size1{
+    margin-left: 300px;
+}
+
+.di{
+    margin-bottom: -10px;
+    display: flex; 
+}
+
+.size2{
+    margin-left: 100px;
+}
+
+.size3{
+    margin-left: 60px;    
+}
+
+.size5{
+    margin-left: 300px;
+}
+
+.size6{
+    margin-left: 300px;
+}

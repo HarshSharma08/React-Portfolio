@@ -1,0 +1,195 @@
+.form {
+    background-color: #414040;
+    color: whitesmoke;
+    padding: 80px 0px;
+    letter-spacing: 1.1px;    
+    font-weight: 100;
+    font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    'sans-serif';
+}
+
+.Footer{
+    background-color: #1f1e1e;
+    color: whitesmoke;
+    padding: 70px 0px;
+    letter-spacing: 1.1px;    
+}
+
+.form_details {
+    padding: 60px ;
+    padding-left: -60px;     
+    margin-top: 20px;
+    margin: 1.6em 33em;}
+
+.gheading {    
+    color: #FAF9F9;
+    font-size: 33px;
+    line-height: 24px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.h3{
+    color: #FAF9F9;
+    font-size: 24px;
+    line-height: 24px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+}
+
+.so{
+    height: 18px;
+    width: 18px;
+    margin-top: 8px;
+}
+
+.nav-lin{
+    color: #FAF9F9;
+    text-decoration: underline;
+    padding: 0.5rem 1rem;
+}
+
+.dii{
+    display: flex;
+    text-decoration: none;
+}
+
+.name1 {
+    margin: 1.6em 33em;
+}   
+
+.name {
+    display: flex;
+    margin-left: -260px;
+
+}   
+
+.name2 {
+    display: flex;
+    margin-left: -200px;
+    padding-right: 200px;
+}   
+
+.name3 {
+    display: flex;
+    margin-left: -500px;
+}   
+
+.name5{
+    display: flex;
+    margin-left: 400px;  
+    margin-top: -50px;
+}
+
+.entry {
+    padding: 1.3em 3em;
+    margin-bottom: 1em;
+    background-color: transparent;
+    opacity: 1;
+    font-size: 18px;
+    letter-spacing: 1.1px;    
+
+}
+
+.social {
+    display: flex;
+    margin: 2em 0em 0 37.5em;
+}
+
+
+.sizee {
+    height: 22px;
+    width: 22px;
+    margin-right: 1.5em;
+}
+
+.size {
+    height: 64px;
+    width: 100em;
+    padding-right: 9.5em;
+}
+
+.copy{
+    margin-top: 30px;
+    margin-left:36em;
+}
+
+.size1 {
+    height: 146px;
+    width: 700px;
+    padding-right: 9.5em;
+}
+
+.size3 {
+    height: 64px;
+    width: 200px;
+    margin-right: 2em;
+}
+
+.size4 {
+    height: 64px;
+    width: 200px;
+    margin-right: 2em;
+}
+
+
+
+@media(max-width: 376px) {
+    .gheading1 {
+        margin: 0em 5em;
+        font-size: 20px;
+        letter-spacing: 1.1px;    
+
+    }
+
+    .name1 {
+        margin: 1em 1em;
+    }
+
+    .name2 {
+        margin: 1em 1em;
+    }
+
+    .name3 {
+        margin: 1em 1em;
+    }
+
+    .name4 {
+        margin: 1em 1em;
+    }
+
+    .name5{
+        margin: 1em 1em;
+    }
+
+    .social {
+        margin: 1.5+em 0em 0 6.5em;
+    }
+
+    .size {
+        height: 18px;
+        width: 18px;
+        margin-right: 1em;
+    }
+
+    .entry {
+        padding: 1em 1em;
+        /* margin-bottom: 1em; */
+        background-color: white;
+        opacity: 0.7;
+        font-size: 13px;
+        margin-left: 4em;
+    }
+
+    .button {
+        padding: 1em 1em;
+        font-size: 10px;
+        margin-left: 12em;
+        margin-top: 1em;
+    }
+}
